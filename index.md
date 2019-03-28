@@ -34,7 +34,7 @@ I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/aca
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/35ajstern">GitHub</a></li>
-          <li><a href="https://twitter.com/"aaron__stern>Twitter (@aaron__stern)</a></li>
+          <li><a href="https://twitter.com/aaron__stern">Twitter (@aaron__stern)</a></li>
       </ul>
   </div>
 </div>

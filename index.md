@@ -4,7 +4,9 @@ title: Aaron J. Stern
 description: Aaron Stern's academic home page 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
-I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Graduate Group in Computational Biology</a> advised by Prof. <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Depts. of Integrative Biology and Statistics. I am interested in theoretical population genetics with a focus on developing methods to study natural selection and applications to human genomics. 
+I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Graduate Group in Computational Biology</a> advised by Prof. <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Depts. of Integrative Biology and Statistics. 
+
+My research interests are in theoretical population genetics with a focus on modeling the genomic signatures of selection and complex trait evolution. I'm especially interested in applying these models to determine which parts of the genome have evolved under selection, and when. I'm also interested in the interplay of population structure and selection. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 

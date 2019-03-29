@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Aaron Stern's research 
+description: Aaron Stern | Research 
 ---
 
 ### <u>Inferring selection frequency trajectories using ARGs</u>

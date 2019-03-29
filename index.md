@@ -6,7 +6,9 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Graduate Group in Computational Biology</a> advised by Prof. <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Depts. of Integrative Biology and Statistics. 
 
-My research interests are in theoretical population genetics with a focus on modeling the genomic signatures of selection and complex trait evolution. I'm especially interested in applying these models to determine which parts of the genome have evolved under selection, and when. I'm also interested in the interplay of population structure and selection. 
+I did my undergraduate studies at Northwestern University, where I worked with Adam Hockenberry and Prof. <a href="https://amaral.northwestern.edu/">Luís Amaral</a> at the Northwestern Institute for Complex Systems. In 2017-2018 I was a Computational Biology Fellow at AncestryDNA, where I studied the recent demographic history of humans in North America. 
+
+My current research interests are in theoretical population genetics with a focus on modeling the genomic signatures of selection and complex trait evolution. I'm especially interested in applying these models to determine which parts of the genome have evolved under selection. I am also interested in the interplay of population structure and selection. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -34,7 +36,6 @@ My research interests are in theoretical population genetics with a focus on mod
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/35ajstern">GitHub</a></li>
           <li><a href="https://twitter.com/aaron__stern">Twitter (@aaron__stern)</a></li>
       </ul>

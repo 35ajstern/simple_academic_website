@@ -10,7 +10,7 @@ Most current methods for detecting natural selection from DNA sequence data do n
 *Available on* <a href="https://doi.org/10.1101/592675">bioRxiv</a>, *Submitted to* <i>PLoS Genetics</i>
 
 ### <u>In progress</u>
-Other projects I am working on include: the interaction between mutational load and adaptation, and implications for <b>genetic rescue</b>; reconstructing <b>selection on polygenic traits</b>; inferring heritability and polygenic selection in <b>structured populations</b>.
+Other projects I am currently pursuing include: the interaction between mutational load and adaptation, and implications for <b>genetic rescue</b>; reconstructing <b>selection on polygenic traits</b>; inferring heritability and polygenic selection in <b>structured populations</b>.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

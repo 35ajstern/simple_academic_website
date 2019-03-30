@@ -4,8 +4,12 @@ title: Teaching
 description: Aaron Stern | Teaching 
 ---
 ### Graduate student instructor (GSI)
-#### Statistics 135 (Fall 2018) 
-This course surveyed the fundamentals of applied statistics (e.g. CLT, bootstrap, maximum likelihood estimation, asymptotics, hypothesis testing, paired sample tests, ANOVA, simple/multiple linear regression). 
+<ul style="list-style-type:none;">
+	<li> <b>Statistics 135</b> (Fall 2018) 
+	<ul style="list-style-type:none;">
+		<li>This course surveyed the fundamentals of applied statistics (e.g. CLT, bootstrap, maximum likelihood estimation, asymptotics, hypothesis testing, paired sample tests, ANOVA, simple/multiple linear regression).</li>
+	</ul> </li>
+</ul>
 
 *Received the* Outstanding GSI Award *from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.*
 

@@ -8,19 +8,23 @@ description: Aaron Stern | Teaching
 	<li> <b>Statistics 135</b> (Fall 2018) 
 	<ul style="list-style-type:none;">
 		<li>This course surveyed the fundamentals of applied statistics (e.g. CLT, bootstrap, maximum likelihood estimation, asymptotics, hypothesis testing, paired sample tests, ANOVA, simple/multiple linear regression).</li>
+		<li>*Received the* Outstanding GSI Award *from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.*</li>
 	</ul> </li>
 </ul>
 
-*Received the* Outstanding GSI Award *from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.*
 
 ### Research mentorship 
 I also mentor several undergraduate students:
 
-<b>Courtney Rauchman</b> is working on modeling genomic signatures of selection on complex traits.
+<ul style="list-style-type:none;">
 
-<b>Yulin Zhang</b> studies the genomic costs of genetic rescue   
+<li><b>Courtney Rauchman</b> is working on modeling genomic signatures of selection on complex traits.</li>
 
-<b>Tamilyn Chen</b> is studying heritability of complex traits with cryptic population structure
+<li><b>Yulin Zhang</b> studies the genomic costs of genetic rescue.</li>
+
+<li><b>Tamilyn Chen</b> is studying heritability of complex traits with cryptic population structure.</li>
+
+</ul>
  
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

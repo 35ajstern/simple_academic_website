@@ -18,11 +18,9 @@ I also mentor several undergraduate students:
 
 <ul style="list-style-type:none;">
 
-<li><b>Courtney Rauchman</b> is working on modeling genomic signatures of selection on complex traits.</li>
+<li><b>Courtney Rauchman</b> is working on modeling genomic signatures of selection on complex traits. </li>
 
 <li><b>Yulin Zhang</b> studies the genomic costs of genetic rescue.</li>
-
-<li><b>Tamilyn Chen</b> is studying heritability of complex traits with cryptic population structure.</li>
 
 </ul>
  

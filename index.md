@@ -24,7 +24,7 @@ My current research interests are in theoretical population genetics with a focu
             Aaron Stern<br/>
             Email: <a href="../assets/emadd.png">
 			<img src="../assets/emadd.png"
-				title="abc"></a>
+				width="150",title="abc"></a>
         </div>
 
         <div class="span2">

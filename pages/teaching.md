@@ -18,7 +18,7 @@ I also mentor several undergraduate students:
 
 <ul style="list-style-type:none;">
 
-<li><b>Courtney Rauchman</b> is working on modeling genomic signatures of selection on complex traits. </li>
+<li><b>Courtney Rauchman</b> is in her third year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
 
 <li><b>Yulin Zhang</b> studies the genomic costs of genetic rescue.</li>
 

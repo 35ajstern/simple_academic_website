@@ -7,7 +7,7 @@ description: Aaron Stern | Teaching
 <b>Statistics 135</b> (Fall 2018) 
 <ul style="list-style-type:none;">
 	<li> This course surveyed the fundamentals of applied statistics (e.g. CLT, bootstrap, maximum likelihood estimation, asymptotics, hypothesis testing, paired sample tests, ANOVA, simple/multiple linear regression).</li>
-
+	<li></li>
 	<li> <i>Received the</i> Outstanding GSI Award <i>from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.</i></li>
 </ul> 
 
@@ -20,7 +20,7 @@ I also mentor several undergraduate students:
 
 <li><b>Courtney Rauchman</b> is in her third year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
 
-<li><b>Yulin Zhang</b> studies the genomic costs of genetic rescue.</li>
+<li><b>Yulin Zhang</b> is a junior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations.</li>
 
 </ul>
  

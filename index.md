@@ -10,6 +10,8 @@ I did my undergraduate studies at Northwestern University, where I worked with D
 
 My current research interests are in theoretical population genetics with a focus on modeling the genomic signatures of selection and complex trait evolution. I'm especially interested in applying these models to determine which parts of the genome have evolved under selection. I am also interested in the interplay of population structure and selection. 
 
+In addition my research, I like hiking in the Sierras, following the NBA, and absurd comedy (<i>Tim and Eric</i> and <i>Portlandia</i> are my favorite shows). 
+
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 

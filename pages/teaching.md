@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching 
+title: Teaching & service 
 description: Aaron Stern | Teaching 
 ---
 ### Graduate student instructor (GSI)
@@ -10,7 +10,6 @@ description: Aaron Stern | Teaching
 <li> </li>
 <li> <i>Received the</i> Outstanding GSI Award <i>from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.</i></li>
 </ul> 
-
 
 
 ### Research mentorship 
@@ -24,6 +23,10 @@ I also mentor several undergraduate students:
 
 </ul>
  
+### Python bootcamp instructor
+
+For the past two years I have instructed and TAed lectures for the Center for Computational Biology's <a href="https://ccb.berkeley.edu/outreach/workshops-bootcamps/">Python Bootcamp</a>. Whether you are a student, researcher, or member of industry interested in learning Python programming skills, please reach out to us if you are interested in participating!
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--

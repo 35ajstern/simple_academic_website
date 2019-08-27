@@ -4,7 +4,7 @@ title: Publications
 description: Aaron Stern | Publications 
 ---
 
-<b>Stern AJ</b>, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", accepted at *PLOS Genetics*.
+<b>Stern AJ</b>, Wilton PR, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", accepted at *PLOS Genetics*.
 
 <b>Stern AJ</b>, Nielsen R, "Detecting Natural Selection", *Handbook of Statistical Genetics, 4th Edition*,  John Wiley & Sons 2019.
 

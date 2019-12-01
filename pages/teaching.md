@@ -17,15 +17,19 @@ I also mentor several undergraduate students:
 
 <ul style="list-style-type:none;">
 
-<li><b>Courtney Rauchman</b> is in her third year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
+<li><b>Courtney Rauchman</b> is in her fourth year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
 
-<li><b>Yulin Zhang</b> is a junior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations.</li>
+<li><b>Yulin Zhang</b> is a senior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations.</li>
 
 </ul>
  
 ### Python bootcamp instructor
 
 For the past two years I have instructed and TAed lectures for the Center for Computational Biology's <a href="https://ccb.berkeley.edu/outreach/workshops-bootcamps/">Python Bootcamp</a>. Whether you are a student, researcher, or member of industry interested in learning Python programming skills, please reach out to us if you are interested in participating!
+
+### Bay Area Population Genetics
+
+In Fall 2019 I served as lead organizer of the biannual Bay Area Population Genetics meeting, hosted on November 9, 2019 at UC Berkeley.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

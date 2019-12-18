@@ -9,7 +9,7 @@ I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/aca
 My current research interests are in theoretical population and statistical genetics, with a focus on modeling how natural selection shapes the genetic architecture of complex traits. I'm especially interested in applying these models to human genomic data to characterize the traits and parts of our genetic architecture which underly adaptation. I am also interested in the interplay of population structure and selection -- specifically local adaptations -- and the impact these incur on standard genetic epidemiological methods.  
 
 #### Background
-I did my undergraduate studies at Northwestern University, where I worked with Adam Hockenberry and <a href="https://amaral.northwestern.edu/">Luís Amaral</a> at the Northwestern Institute for Complex Systems. In 2017-2018 I was a Computational Biology Fellow at AncestryDNA, where I worked with Shiya Song and Dan Garrigan, studying the recent demographic history of humans in North America using both genetic and genealogical data. 
+I did my undergraduate studies at Northwestern University, where I worked with Adam Hockenberry and <a href="https://amaral.northwestern.edu/">Luís Amaral</a> at the Northwestern Institute for Complex Systems. In 2017-2018 I was a Computational Biology Fellow at AncestryDNA, where I worked with <a href="http://songsy.github.io/">Shiya Song</a> and Dan Garrigan, studying the recent demographic history of humans in North America using both genetic and genealogical data. 
 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>

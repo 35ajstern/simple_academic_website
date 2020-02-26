@@ -9,6 +9,12 @@ Coalescent Likelihood Under Effects of Selection. This is a software package (ac
 
 CLUES is on <a href = "https://github.com/35ajstern/clues">Github</a>.
 
+### adna_hmm
+
+A Hidden Markov Model (HMM) to infer selection coefficients and allele frequency trajectories, including ancient samples/genotype likelihoods. The model also allows you to include coalescent trees estimated by <a href = "https://myersgroup.github.io/relate/">Relate</a> (Speidel, et al 2019). 
+
+adna_hmm is available on <a href = "https://github.com/35ajstern/adna_hmm">Github</a>.
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--

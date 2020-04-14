@@ -19,7 +19,7 @@ I also mentor several undergraduate students:
 
 <li><b>Courtney Rauchman</b> is in her fourth year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
 
-<li><b>Yulin Zhang</b> is a senior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations.</li>
+<li><b>Yulin Zhang</b> is a senior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations. She is starting her PhD in Computational Biology at UC Berkeley in Fall 2021. Go Yulin!!</li>
 
 </ul>
  

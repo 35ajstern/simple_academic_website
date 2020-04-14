@@ -3,17 +3,15 @@ layout: page
 title: Software 
 description: Aaron Stern | Software 
 ---
-### CLUES 
+### clues 
 
-Coalescent Likelihood Under Effects of Selection. This is a software package (actively developed and documented) for estimating the likelihood of selection, the selection coefficient, and changes in allele frequency over time. The method broadly works by using the results of pre-existing methods for estimating/sampling local genealogies (e.g. <a href = "https://github.com/mjhubisz/argweaver">ARGweaver</a> -- or, soon to be implemented, <a href = "https://myersgroup.github.io/relate/">Relate</a>). These trees are then ran through our importance sampling algorithm.
+Coalescent Likelihood Under Effects of Selection (clues). This is a software package (actively developed and documented) for estimating the likelihood of selection, the selection coefficient, and changes in allele frequency over time. The method broadly works by using the results of pre-existing methods for estimating/sampling local genealogies (e.g. -- or, soon to be implemented, <a href = "https://myersgroup.github.io/relate/">Relate</a>). These trees are then ran through our importance sampling algorithm. We use r Hidden Markov Model (HMM) to infer selection coefficients and allele frequency trajectories, including ancient samples/genotype likelihoods. 
 
 CLUES is on <a href = "https://github.com/35ajstern/clues">Github</a>.
 
-### adna_hmm
+#### clues-v0
 
-A Hidden Markov Model (HMM) to infer selection coefficients and allele frequency trajectories, including ancient samples/genotype likelihoods. The model also allows you to include coalescent trees estimated by <a href = "https://myersgroup.github.io/relate/">Relate</a> (Speidel, et al 2019). 
-
-adna_hmm is available on <a href = "https://github.com/35ajstern/adna_hmm">Github</a>.
+We also have an older version of this method <a href = "https://github.com/35ajstern/clues-v0">CLUES-v0</a> that uses the MCMC method <a href = "https://github.com/mjhubisz/argweaver">ARGweaver</a> to sample local genealogies.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

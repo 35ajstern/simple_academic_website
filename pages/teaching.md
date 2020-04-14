@@ -27,6 +27,16 @@ I also mentor several undergraduate students:
 
 For the past two years I have instructed and TAed lectures for the Center for Computational Biology's <a href="https://ccb.berkeley.edu/outreach/workshops-bootcamps/">Python Bootcamp</a>. Whether you are a student, researcher, or member of industry interested in learning Python programming skills, please reach out to us if you are interested in participating!
 
+### Refereeing
+
+I have reviewed for the following publications:
+<ul style="list-style-type:none;">
+
+<li> Genetics </li>
+<li> G3: Genes | Genomes | Genetics </li>
+
+</ul>
+
 ### Bay Area Population Genetics
 
 In Fall 2019 I served as lead organizer of the biannual Bay Area Population Genetics meeting, hosted on November 9, 2019 at UC Berkeley.

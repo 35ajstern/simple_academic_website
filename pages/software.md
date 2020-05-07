@@ -12,7 +12,7 @@ PALM is on <a href = "https://github.com/35ajstern/palm">Github</a>.
 
 ### clues 
 
-Coalescent Likelihood Under Effects of Selection (clues). This is a software package (actively developed and documented) for estimating the likelihood of selection, the selection coefficient, and changes in allele frequency over time. The method broadly works by using the results of pre-existing methods for estimating/sampling local genealogies (e.g. -- or, soon to be implemented, <a href = "https://myersgroup.github.io/relate/">Relate</a>). These trees are then ran through our importance sampling algorithm. We use r Hidden Markov Model (HMM) to infer selection coefficients and allele frequency trajectories, including ancient samples/genotype likelihoods. 
+Coalescent Likelihood Under Effects of Selection (clues). This is a software package (actively developed and documented) for estimating the likelihood of selection, the selection coefficient, and changes in allele frequency over time. The method broadly works by using the results of pre-existing methods for estimating/sampling local genealogies (i.e., <a href = "https://myersgroup.github.io/relate/">Relate</a>). These trees are then ran through our importance sampling algorithm. We use a HMM to infer selection coefficients and allele frequency trajectories, including ancient samples/genotype likelihoods. 
 
 CLUES is on <a href = "https://github.com/35ajstern/clues">Github</a>.
 

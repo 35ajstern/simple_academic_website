@@ -6,7 +6,10 @@ description: Aaron Stern | Publications
 <b>Stern AJ</b>, Speidel L, Zaitlen NA, Nielsen R, "Disentangling selection on genetically correlated polygenic
 2 traits using whole-genome genealogies", *bioRxiv* (2020).
 
-<b>Stern AJ</b>, Wilton PR, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", accepted at *PLOS Genetics*.
+Cheng J, <b>Stern AJ</b>, Racimo F, Nielsen R, "Ohana: detecting selection in multiple populations by
+modelling ancestral admixture components", under review at *MBE*.
+
+<b>Stern AJ</b>, Wilton PR, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", *PLOS Genetics* (2019).
 
 <b>Stern AJ</b>, Nielsen R, "Detecting Natural Selection", *Handbook of Statistical Genetics, 4th Edition*,  John Wiley & Sons 2019.
 

@@ -3,6 +3,8 @@ layout: page
 title: Publications 
 description: Aaron Stern | Publications 
 ---
+<b>Stern AJ</b>, Speidel L, Zaitlen NA, Nielsen R, "Disentangling selection on genetically correlated polygenic
+2 traits using whole-genome genealogies", *bioRxiv* (2020).
 
 <b>Stern AJ</b>, Wilton PR, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", accepted at *PLOS Genetics*.
 

@@ -14,7 +14,7 @@ Some of my specific research interests are:
 <ul>
 	<li> Detecting natural selection, from alleles to complex traits </li>
 	<li> Disentangling selection on pleiotropically-related traits </li> 
-	<li> Modeling stratification in human GWAS and downstream analyses </li>
+	<li> Modeling stratification in GWAS and its implications for downstream analysis (e.g. tests for selection) </li>
 </ul>
 
 #### Background

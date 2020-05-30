@@ -17,9 +17,11 @@ I also mentor several undergraduate students:
 
 <ul style="list-style-type:none;">
 
-<li><b>Courtney Rauchman</b> is in her fourth year of undergraduate studies at UC Berkeley, majoring in Data Science. Her research is in statistical and population genetics. She received a $5,000 SURF award for her to continue research in the lab during Summer 2019! </li>
+<li><b>Zaid Ahmad</b> is in his third year of undergraduate studies at UC Berkeley, majoring in math and statistics. Zaid is working on methods to combine ancient and modern DNA sequence data to detect natural selection.</li>
 
-<li><b>Yulin Zhang</b> is a senior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations. She is starting her PhD in Computational Biology at UC Berkeley in Fall 2021. Go Yulin!!</li>
+<li><b>Courtney Rauchman</b> undergrad at UC Berkeley, graduated with a degree in Data Science. She studied the impact of stratification and natural selection on LD-based heritability estimates.</li> 
+
+<li><b>Yulin Zhang</b> is a senior at Sun Yat-sen University in Guangzhou, China. Yulin studies the dynamics of genetic rescue and its effects on local adaptations. She is starting her PhD in Computational Biology at UC Berkeley in Fall 2021.</li>
 
 </ul>
  

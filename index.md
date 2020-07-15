@@ -3,6 +3,28 @@ layout: frontpage
 title: Aaron J. Stern 
 description: Aaron Stern's academic home page 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Aaron Stern<br/>
+            Email: <a href="../assets/emadd.png">
+			<img src="../assets/emadd.png"
+				width="150" title="abc"></a>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Aaron" alt="Aaron"/></a>
+        </div>
+    </div>
+</div>
+
+
+
 ---
 #### About me
 
@@ -27,25 +49,6 @@ In 2015 I graduated from Northwestern University, where I did my undergraduate s
 
 ---
 
-
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Aaron Stern<br/>
-            Email: <a href="../assets/emadd.png">
-			<img src="../assets/emadd.png"
-				width="150" title="abc"></a>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Aaron" alt="Aaron"/></a>
-        </div>
-    </div>
-</div>
 
 <div class="navbar">
   <div class="navbar-inner">

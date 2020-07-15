@@ -4,31 +4,12 @@ title: Aaron J. Stern
 description: Aaron Stern's academic home page 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Aaron Stern<br/>
-            Email: <a href="../assets/emadd.png">
-			<img src="../assets/emadd.png"
-				width="150" title="abc"></a>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Aaron" alt="Aaron"/></a>
-        </div>
-    </div>
-</div>
-
-
-
 ---
 #### About me
 
 I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Graduate Group in Computational Biology</a> advised by <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Depts. of Integrative Biology and Statistics. I also work with <a href="http://zaitlenlab.science/">Noah Zaitlen</a> at the UCLA David Geffen School of Medicine. 
+
+<img style="float: right;" src="../assets/headshot.jpg">
 
 I'm interested in studying the evolution of complex traits -- in particular, how adaptation and natural selection have shaped who we are today: i.e., modern human phenotypic and genetic variation. My work draws on a combination of population and statistical genetics, and is broadly focused on using DNA sequence data and/or GWAS to build methods to study adaptation and complex trait evolution.  
 

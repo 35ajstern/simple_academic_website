@@ -12,8 +12,8 @@ description: Aaron Stern | Teaching
 </ul> 
 
 ### Integrative Biology 249, Co-organizer, Fall 2020
-<ul style="list-style-type:none;">
 **Statistical genetics of complex traits**
+<ul style="list-style-type:none;">
 <li> This course surveys recent advances in the statistical genetics of complex traits.</li>
 <li> I designed the syllabus and helped organize the course.</li>
 </ul>

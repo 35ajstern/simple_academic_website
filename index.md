@@ -24,6 +24,7 @@ Some of my specific research interests are:
 #### Background
 In 2015 I graduated from Northwestern University, where I did my undergraduate studies with <a href="https://adamhockenberry.com/">Adam Hockenberry</a> and <a href="https://amaral.northwestern.edu/">Luís Amaral</a> at the Northwestern Institute for Complex Systems. From 2017-2018 I was a Computational Biology Fellow at AncestryDNA, where I worked with <a href="http://songsy.github.io/">Shiya Song</a> and Dan Garrigan, where I developed statistical models for inferring genealogical relationships from genetic data, and studied the recent demographic history of humans in North America.
 
+Outside of work, I enjoy hiking (especially the Sierras), playing/following basketball/the NBA, cooking, and watching The Sopranos.
 
 ---
 

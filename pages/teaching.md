@@ -3,7 +3,7 @@ layout: page
 title: Teaching & service 
 description: Aaron Stern | Teaching 
 ---
-### Graduate student instructor (GSI), Statistics 135 (Fall 2018)
+### Statistics 135, Graduate student instructor (GSI), Fall 2018
 **Concepts of Statistics**
 <ul style="list-style-type:none;">
 <li> This course surveyed the fundamentals of applied statistics (e.g. CLT, bootstrap, maximum likelihood estimation, asymptotics, hypothesis testing, paired sample tests, ANOVA, simple/multiple linear regression).</li>
@@ -11,7 +11,7 @@ description: Aaron Stern | Teaching
 <li> <i>Received the</i> Outstanding GSI Award <i>from the Dept.of Statistics for my instruction of Stat 135; this award is given to ~9% of UC Berkeley GSIs.</i></li>
 </ul> 
 
-### Co-organizer, Integrative Biology 249 (Fall 2020)
+### Integrative Biology 249, Co-organizer, Fall 2020
 <ul style="list-style-type:none;">
 **Statistical genetics of complex traits**
 <li> This course surveys recent advances in the statistical genetics of complex traits.</li>

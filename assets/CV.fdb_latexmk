@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1578522438 "CV.tex" "CV.pdf" "CV" 1578522439
+["pdflatex"] 1589213132 "CV.tex" "CV.pdf" "CV" 1589213133
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -9,6 +9,7 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1248133631 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
@@ -21,6 +22,7 @@
   "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty" 1463608860 184907 0684df819a7b0db4d40278012ce92791 ""
   "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty" 1463608860 70752 b461cacad0518ee92bfe2446909a53a8 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls" 1459635588 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd" 1454284088 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo" 1459635588 8292 e897c12e1e886ce77fe26afc5d470886 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty" 1428932888 2594 d18d5e19aa8239cf867fa670c556d2e9 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def" 1462835572 51837 3504c3bd905d546a7e98cebbb2cf6475 ""
@@ -38,7 +40,7 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "CV.aux" 1553811743 8 a94a2480d3289e625eea47cd1b285758 ""
-  "CV.tex" 1578522438 10756 8d75a39391d25c5580c2fc7f49ac84b8 ""
+  "CV.tex" 1589213132 11324 e4d73ac1da198a4c6440161de538bd27 ""
   "res.cls" 1510384258 25064 12b8a9e558b35c7e7f7f5fb39bebb9a2 ""
   (generated)
   "CV.pdf"

@@ -11,7 +11,7 @@ I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/aca
 
 <img style="float: right;" src="../assets/headshot.jpg" width="300">
 
-I'm interested in studying the evolution of complex traits -- in particular, how adaptation and natural selection have shaped who we are today: i.e., modern human phenotypic and genetic variation. My work draws on a combination of population and statistical genetics, and is broadly focused on using DNA sequence data and/or GWAS to build methods to study adaptation and complex trait evolution.  
+I'm interested in how genetics relate to variation and evolution of complex traits; in particular, how adaptation and natural selection have shaped who we are today (i.e., modern human phenotypic and genetic variation). My work draws on a combination of population and statistical genetics, and is broadly focused on using DNA sequence data and/or GWAS to build methods to study adaptation and complex trait evolution.  
 
 Some of my specific research interests are:
 <ul>

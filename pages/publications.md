@@ -9,7 +9,7 @@ description: Aaron Stern | Publications
 <b>Stern AJ</b>, Speidel L, Zaitlen NA, Nielsen R, "Disentangling selection on genetically correlated polygenic
 2 traits using whole-genome genealogies", *bioRxiv* (2020).
 
-Zhang Y [<u>mentee</u>]\*, <b>Stern AJ</b>\*, Nielsen R, ``Evolution of local adaptations under genetic rescue is determined by polygenicity and mutational load'', {\it bioRxiv} (2020).
+Zhang Y [<u>mentee</u>]\*, <b>Stern AJ</b>\*, Nielsen R, ``Evolution of local adaptations under genetic rescue is determined by polygenicity and mutational load'', *bioRxiv* (2020).
 
 Cheng J, <b>Stern AJ</b>, Racimo F, Nielsen R, "Ohana: detecting selection in multiple populations by
 modelling ancestral admixture components", under review at *MBE*.

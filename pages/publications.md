@@ -4,6 +4,8 @@ title: Publications
 description: Aaron Stern | Publications 
 ---
 
+<i>\* equal contribution</i>
+
 ### Preprints
 
 Zhang Y [<u>mentee</u>]\*, <b>Stern AJ</b>\*, Nielsen R, ``Evolution of local adaptations under genetic rescue is determined by polygenicity and mutational load'', *bioRxiv* (2020).

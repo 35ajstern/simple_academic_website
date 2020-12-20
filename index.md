@@ -7,7 +7,7 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 #### About me
 
-I am a statistical & population geneticist. In 2020, received my PhD in <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology</a> at UC Berkeley, advised by <a href="https://scholar.google.com/citations?user=PySbfcEAAAAJ&hl=en&oi=ao">Rasmus Nielsen</a>. I have also worked closely with <a href="https://scholar.google.com/citations?user=SPXgieEAAAAJ&hl=en&oi=ao">Noah Zaitlen</a> (UCLA).
+I am a statistical & population geneticist. In 2020, I received my PhD in <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology</a> at UC Berkeley, advised by <a href="https://scholar.google.com/citations?user=PySbfcEAAAAJ&hl=en&oi=ao">Rasmus Nielsen</a>. I have also worked closely with <a href="https://scholar.google.com/citations?user=SPXgieEAAAAJ&hl=en&oi=ao">Noah Zaitlen</a> (UCLA).
 
 <img style="float: right;" src="../assets/headshot.jpg" width="300">
 

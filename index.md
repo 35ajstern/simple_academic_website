@@ -11,6 +11,8 @@ I am a statistical & population geneticist. In 2020, received my PhD in <a href=
 
 <img style="float: right;" src="../assets/headshot.jpg" width="300">
 
+#### Research interests
+
 I'm interested in how genetics relate to variation and evolution of complex traits; in particular, how adaptation and natural selection have shaped who we are today (i.e., modern human phenotypic and genetic variation). My work draws on a combination of population and statistical genetics, and is broadly focused on using DNA sequence data and/or GWAS to build methods to study adaptation and complex trait evolution.  
 
 Some of my specific research interests are:
@@ -22,6 +24,7 @@ Some of my specific research interests are:
 </ul>
 
 #### Background
+
 In 2015 I graduated from Northwestern University, where I did my undergraduate studies with <a href="https://adamhockenberry.com/">Adam Hockenberry</a> and <a href="https://amaral.northwestern.edu/">Luís Amaral</a> at the Northwestern Institute for Complex Systems. From 2017-2018 I was a Computational Biology Fellow at AncestryDNA, where I worked with <a href="http://songsy.github.io/">Shiya Song</a> and Dan Garrigan, where I developed statistical models for inferring genealogical relationships from genetic data, and studied the recent demographic history of humans in North America.
 
 Outside of work, I enjoy hiking (especially the Sierras), playing/following basketball/the NBA, cooking, and watching The Sopranos.

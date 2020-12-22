@@ -20,7 +20,7 @@ Some of my specific research interests are:
 	<li> Detecting natural selection, from alleles to complex traits </li>
 	<li> Disentangling selection on pleiotropically-related traits </li> 
 	<li> The role of ancestry in heritable trait variation </li>
-	<li> Stratification in GWAS, and its implications for downstream analysis (e.g. tests for selection) </li>
+	<li> Using ancestral recombination graphs (ARGs) to detect selection </li>
 </ul>
 
 #### Background

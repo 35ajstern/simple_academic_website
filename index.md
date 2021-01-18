@@ -7,9 +7,7 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 #### About me
 
-I'm a member of the Bioinformatics & Data Science team at <a href="https://grail.com/">GRAIL</a> with a background in statistical & population genetics. 
-
-In 2020, I received my PhD in <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology</a> at UC Berkeley, advised by <a href="https://scholar.google.com/citations?user=PySbfcEAAAAJ&hl=en&oi=ao">Rasmus Nielsen</a>. I have also worked closely with <a href="https://scholar.google.com/citations?user=SPXgieEAAAAJ&hl=en&oi=ao">Noah Zaitlen</a> (UCLA).
+I'm a member of the Bioinformatics & Data Science team at <a href="https://grail.com/">GRAIL</a>. My background is in statistical & population genetics. In 2020, I received my PhD in <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology</a> at UC Berkeley, advised by <a href="https://scholar.google.com/citations?user=PySbfcEAAAAJ&hl=en&oi=ao">Rasmus Nielsen</a>, also worked closely with <a href="https://scholar.google.com/citations?user=SPXgieEAAAAJ&hl=en&oi=ao">Noah Zaitlen</a> at UCLA.
 
 <img style="float: right;" src="../assets/headshot.png" width="210">
 

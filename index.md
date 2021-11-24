@@ -7,7 +7,7 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 #### About me
 
-Hello -- I am Machine Learning Engineer in the Prediction, Optimization & Planning team at <a href="https://afresh.com">Afresh Technologies</a>.
+Hello -- I am Machine Learning Engineer in the Prediction, Optimization & Planning team at <a href="https://afresh.com">Afresh Technologies</a>. Our team develops forecasting systems to empower groceries stores to reduce food waste & meet demand for fresh food.
 
 <img style="float: right;" src="../assets/headshot.png" width="210">
 
